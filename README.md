@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React and Tailwind CSS Project
 This is a responsive React and Tailwind CSS project that I created as a practice. The project uses Create React App (CRA) and tailwindCSS to remove all the unused CSS classes from the production build.
 ## Technologies Used
@@ -27,3 +28,6 @@ This is a responsive React and Tailwind CSS project that I created as a practice
 ![Screenshot (2033)](https://user-images.githubusercontent.com/121693146/230616537-f55a9125-ed19-43da-a975-af5a82af62a5.png)
 ![Screenshot (2036)](https://user-images.githubusercontent.com/121693146/230616563-e3c52a38-5fe3-41e5-969d-34ceb1f16281.png)
 
+=======
+# aLphabet-website
+>>>>>>> ad9aed163355dd84621d86d984efe676ae45561a
